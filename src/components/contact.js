@@ -13,7 +13,7 @@ export default function Contact() {
             <div className="social-icons">
                     <a href="https://www.linkedin.com/in/dhakalkishor/"><FaLinkedin size={40} /></a>
                     <a href="mailto:dhakalkishor111@gmail.com"><FaGoogle size={40}/></a>
-                    <a href="https://github.com/kishordhakal/magkisho/"><FaGithub size={40}/></a>
+                    <a href="https://github.com/kishordhakal"><FaGithub size={40}/></a>
                     <a href="https://kishordhakal.github.io/resume/"><IoIosDocument size={40} /></a>    
             </div>
         </div>
