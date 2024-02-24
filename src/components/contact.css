@@ -1,0 +1,24 @@
+.contact-me {
+    position: relative;
+    height: auto; /* Adjust the height as needed */
+    overflow: hidden;
+    background: rgb(164, 93, 49);
+    background: linear-gradient(0deg, rgb(125, 85, 54) 44%, rgba(179, 101, 27, 0.826) 100%);
+    color: white;
+    padding-bottom: 2%;
+  }
+  .social-icons{
+    text-indent: 20PX;
+    display: inline;
+    
+  }
+  .social-icons a {
+    color: rgb(114, 235, 9);
+    font-size: 5px;
+	display: inline-block; 
+  }
+
+  .social-icons a:hover {
+    color: rgb(251, 248, 248);
+  }
+  

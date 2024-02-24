@@ -1,0 +1,64 @@
+.skills-projects {
+    position: relative;
+    height: 100vh; /* Adjust the height as needed */
+    overflow: hidden;
+    /* background-color: rgb(141, 92, 68); */
+    background: rgb(232,134,72);
+    background: linear-gradient(0deg, rgb(233, 147, 90) 44%, rgba(107, 54, 30, 0.905) 100%);
+    color: white;
+  }
+  .Pro-languages h1{
+    display: inline;
+    font-size: 80px;
+    /* background-color: rgb(132, 90, 69); */
+  }
+  .Pro-languages{
+    padding-top: 1%;
+  }
+  .Databases{
+    padding-top:2%;
+  }
+  
+  .Databases h1{
+    display: inline;
+    font-size: 80px;
+    /* background-color: rgb(200, 125, 88); */
+  }
+
+  .project{
+    width: 100%;
+    display: flex;
+  }
+  .pet-app{
+    width: 32%;
+    float: left;
+    padding-top: 1%;
+    margin-left: 2%;
+    box-shadow: inset 0 3px 6px rgba(132, 75, 75, 0.557), 0 4px 6px rgba(115, 80, 40, 0.45);
+  	border-radius: 10px;
+  }
+  .woods-stone{
+    width: 32%;
+    float: left;
+    padding-top: 1%;
+    box-shadow: inset 0 3px 6px rgba(132, 75, 75, 0.557), 0 4px 6px rgba(115, 80, 40, 0.45);
+  	border-radius: 10px;
+
+  }
+  .ta-assigner{
+    width: 32%;
+    float: left;
+    padding-top: 1%;
+    box-shadow: inset 0 3px 6px rgba(132, 75, 75, 0.557), 0 4px 6px rgba(115, 80, 40, 0.45);
+  	border-radius: 10px;
+
+  }
+  .pet-app a{
+    color:rgb(163, 242, 6);
+  }
+  .woods-stone a{
+    color:rgb(163, 242, 6);
+  }
+  .ta-assigner a{
+    color:rgb(163, 242, 6);
+  }
